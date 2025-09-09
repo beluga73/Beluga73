@@ -74,10 +74,6 @@
 <img src="https://skillicons.dev/icons?i=webpack" width="36" height="36" alt="Webpack" />
 </a> 
 &nbsp;
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="Webpack" />
-</a> 
-&nbsp;
 </p>
   
 <p>
