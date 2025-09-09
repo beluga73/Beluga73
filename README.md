@@ -1,6 +1,6 @@
 # Hi, I'm Mikhail! ![waving](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ## Frontend Engineer, developer, tech enthusiast.
-⚡ About Me:
+###⚡ About Me:
 
 - 📄 Know about my exprerience [LinkedIn](https://www.linkedin.com/in/mbelov1/)
 - 🔥 All of my projects are available at [Repositories](https://github.com/DevMisha18?tab=repositories)
@@ -84,8 +84,8 @@
 <img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" />
 </a>
 &nbsp;
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=azure" width="36" height="36" alt="Azure" />
+<a href="https://supabase.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" alt="Supabase" />
 </a>
 &nbsp;
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
