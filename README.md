@@ -53,8 +53,8 @@
 <img src="https://skillicons.dev/icons?i=jest" width="36" height="36" alt="Jest" />
 </a>
 &nbsp;
-<a href="[https://cyress.io/](https://playwright.dev/)" target="_blank" rel="noreferrer">
-<img src="https://github.com/microsoft/playwright/blob/main/browser_patches/webkit/embedder/Playwright/Images.xcassets/AppIcon.appiconset/logo-256.png" width="36" height="36" alt="Playwright" />
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=playwright" width="36" height="36" alt="Playwright" />
 </a>
 &nbsp;
 <a href="https://storybook.js.org/docs/" target="_blank" rel="noreferrer">
