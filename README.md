@@ -65,13 +65,17 @@
 </a>
 <!-- Technologies -->
 &nbsp; &nbsp; &nbsp;
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=vite" width="36" height="36" alt="Vite" />
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=npm" width="36" height="36" alt="NPM" />
 </a>
 &nbsp;
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=webpack" width="36" height="36" alt="Webpack" />
 </a> 
+&nbsp;
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=vim" width="36" height="36" alt="Vim" />
+</a>
 &nbsp;
 </p>
   
@@ -86,6 +90,9 @@
 &nbsp; &nbsp; &nbsp;
 <a href="https://stripe.com/" target="_blank" rel="noreferrer">
 <img src="https://play-lh.googleusercontent.com/2PS6w7uBztfuMys5fgodNkTwTOE6bLVB2cJYbu5GHlARAK36FzO5bUfMDP9cEJk__cE" width="36" height="36" alt="Stripe" />
+</a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=vim" width="36" height="36" alt="Vim" />
 </a>
 </p>
 </div>
