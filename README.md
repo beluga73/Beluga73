@@ -73,8 +73,8 @@
 <img src="https://skillicons.dev/icons?i=webpack" width="36" height="36" alt="Webpack" />
 </a> 
 &nbsp;
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=vim" width="36" height="36" alt="Vim" />
+<a href="https://vite.dev/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=vite" width="36" height="36" alt="Vite" />
 </a>
 &nbsp;
 </p>
