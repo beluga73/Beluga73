@@ -110,37 +110,3 @@ Software Engineer, developer, tech enthusiast.
 </a>
 </p>
 </div>
-
----
-
-<!-- ### Let's connect
-
-<p align="left">
-<a href="https://www.github.com/moeen-mahmud" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </a> <a href="https://www.linkedin.com/in/moeen-mahmud" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a> <a href="https://www.twitter.com/moeen_mahmud" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-</a> <a href="https://www.dev.to/moeenmahmud" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
-</a> <a href="https://moeen-mahmud.hashnode.dev/.hashnode.dev" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
-</a> <a href="http://www.medium.com/@moeen-mahmud" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
-</a> <a href="https://www.stackoverflow.com/users/16439389/moeen" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-</a> 
-</p> -->
-
-<!-- Stats -->
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeen-mahmud&layout=compact&theme=tokyonight)
--->
-
-<a href="https://app.daily.dev/moeen_mahmud"><img src="https://github.com/moeen-mahmud/moeen-mahmud/blob/main/devcard.svg" width="300" alt="Moeen Mahmud's Dev Card"/></a>
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moeen-mahmud&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
-
-<!-- 
-[![Stats](https://github-readme-stats.vercel.app/api?username=moeen-mahmud&show_icons=true&theme=tokyonight)](https://github.com/moeen-mahmud/github-readme-stats)
--->
