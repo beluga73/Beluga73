@@ -70,13 +70,14 @@
 <img src="https://skillicons.dev/icons?i=vite" width="36" height="36" alt="Vite" />
 </a>
 &nbsp;
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=webpack" width="36" height="36" alt="Webpack" />
 </a> 
 &nbsp;
-<a href="https://nx.dev/" target="_blank" rel="noreferrer">
-<img src="https://miro.medium.com/max/535/1*JOrlLNUDR7jisQJ81DTyLw.png" width="36" height="36" alt="Nx" />
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="Webpack" />
 </a> 
+&nbsp;
 </p>
   
 <p>
@@ -86,10 +87,6 @@
 &nbsp;
 <a href="https://supabase.com/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" alt="Supabase" />
-</a>
-&nbsp;
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=heroku" width="36" height="36" alt="Heroku" />
 </a>
 &nbsp; &nbsp; &nbsp;
 <a href="https://stripe.com/" target="_blank" rel="noreferrer">
