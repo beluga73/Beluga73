@@ -1,11 +1,10 @@
-Hi, I'm Moeen! ![waving](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-====================================================================================================================================
+# Hi, I'm Moeen! ![waving](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## Frontend Engineer, developer, tech enthusiast.
+### ⚡ About Me:
 
-Software Engineer, developer, tech enthusiast.
-
-* 🌍  I'm from Dhaka, Bangladesh
-* 🖥️  Portfolio [moeen.turbogist.dev](https://moeen.turbogist.dev/)
-* ✉️  Email [moeen.mahmud007@gmail.com](mailto:moeen.mahmud007@gmail.com)
+- 📄 Know about my exprerience [LinkedIn](https://www.linkedin.com/in/mbelov1/)
+- 🔥 All of my projects are available at [Repositories](https://github.com/DevMisha18?tab=repositories)
+- 👨🏻‍💻 Ask me about **React**
 
 ## Tech Stack
 
@@ -23,10 +22,6 @@ Software Engineer, developer, tech enthusiast.
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=nodejs" width="36" alt="Node JS"/>
 </a>
-&nbsp;
-<a href="https://go.dev/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=go" width="36" alt="Golang"/>
-</a>
 &nbsp; &nbsp; &nbsp;
   
 <!-- Frameworks -->
@@ -36,14 +31,6 @@ Software Engineer, developer, tech enthusiast.
 &nbsp;
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=nextjs" width="36" alt="Next JS"/>
-</a>
-&nbsp;
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=svelte" width="36" alt="Svelte"/>
-</a>
-&nbsp;
-<a href="https://nestjs.com" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=nestjs" width="36" alt="Nest JS"/>
 </a>
 &nbsp;
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -66,8 +53,10 @@ Software Engineer, developer, tech enthusiast.
 <img src="https://skillicons.dev/icons?i=jest" width="36" height="36" alt="Jest" />
 </a>
 &nbsp;
-<a href="https://cyress.io/" target="_blank" rel="noreferrer">
-<img src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png" width="36" height="36" alt="Cypress" />
+
+
+<a href="[https://cyress.io/](https://playwright.dev/)" target="_blank" rel="noreferrer">
+<img src="https://github.com/microsoft/playwright/blob/main/browser_patches/webkit/embedder/Playwright/Images.xcassets/AppIcon.appiconset/logo-16.png" width="36" height="36" alt="Cypress" />
 </a>
 &nbsp;
 <a href="https://storybook.js.org/docs/" target="_blank" rel="noreferrer">
