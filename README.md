@@ -1,6 +1,6 @@
 # Hi, I'm Mikhail! ![waving](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ## Frontend Engineer, developer, tech enthusiast.
-###⚡ About Me:
+### ⚡ About Me:
 
 - 📄 Know about my exprerience [LinkedIn](https://www.linkedin.com/in/mbelov1/)
 - 🔥 All of my projects are available at [Repositories](https://github.com/DevMisha18?tab=repositories)
