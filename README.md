@@ -4,7 +4,7 @@
 ### ⚡ About Me:
 
 - 📄 Know about my experience [LinkedIn](https://www.linkedin.com/in/mbelov1/)
-- 🔥 All of my projects are available at [Repositories](https://github.com/DevMisha18?tab=repositories)
+- 🔥 All of my projects are available at [Repositories](https://github.com/beluga73?tab=repositories)
 - 👨🏻‍💻 Ask me about **React**
 
 ## Tech Stack
